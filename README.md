@@ -67,7 +67,7 @@ Exploring scalable web development using Next.js and modern tooling
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=connect-aima&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="connect-aima" /></p>
 <br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=connect-aima&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D" alt="connect-abdullah" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=connect-aima&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D" alt="connect-aima" /></p>
 <br><br><br><br><br><br><br><br><br><br></br>
 <!-- Quotes -->
 <div align="center"> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="75%"> </div>
