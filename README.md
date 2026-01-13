@@ -4,7 +4,11 @@
 
 <br><br><br>
 <!-- About -->
-🌱 I’m currently learning **Web Development**
+🌱Actively building modern web apps with React, Next.js, and TypeScript
+
+Learning modern full-stack web development with real projects
+
+Exploring scalable web development using Next.js and modern tooling
 <!-- Right Coding GIF -->
 <img align="right" alt="Coding" width="340" src="./img.jpg">
 
@@ -23,7 +27,27 @@
 	<!-- Python Icon -->
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    	<!-- Tailwind Icon -->
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+	<!-- React  Icon --> 
+	<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
+</a>
+<!-- java  Icon --> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+</a>
+<!-- typrscript  Icon --> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+<!-- javascript  Icon --> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+<!-- next  Icon --> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
+</a>
 </p>
 <br>
 
@@ -37,10 +61,10 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connect-aima&show_icons=true&theme=dark&locale=en&layout=compact" alt="connect-abdullah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connect-aima&show_icons=true&theme=dark&locale=en&layout=compact" alt="connect-aima" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=connect-aima&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="connect-abdullah" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=connect-aima&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="connect-aima" /></p>
 <br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=connect-aima&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D" alt="connect-abdullah" /></p>
@@ -77,4 +101,4 @@
 
 <!-- Last Updated -->
 
-<!-- Last Edited on: 29/12/2024 -->
+<!-- Last Edited on: 13/01/2026 -->
